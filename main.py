@@ -71,8 +71,8 @@ def process_data():
     logging.info("Data saved to SQLite database.")
 
 # Simulate the data ingestion process
-fetch_data()
-process_data()
+# fetch_data()
+# process_data()
 
 # Apache Airflow DAG simulation
 
